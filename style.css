@@ -1,0 +1,13 @@
+.flex-box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.fitem{
+    background-color: chartreuse;
+    border: 2px solid black;
+    margin: 12px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
